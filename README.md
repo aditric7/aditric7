@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Aditri
 
-<!--
-**aditric7/aditric7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full Stack Developer | 🚀 Open Source Enthusiast | 🧩 Competitive Programmer
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **React, Node.js, Express.js & MongoDB**
+
+💡 Passionate about building impactful web applications and solving DSA problems.
+
+## 🚀 Current Focus
+
+- 🌱 Building **Krishi Market** (MERN Stack)
+- 💻 Contributing to **GSSoC 2026**
+- 📚 Solving **Data Structures & Algorithms**
+- ⚡ Learning **React, Node.js, Express.js & MongoDB**
+
+## 💻 Tech Stack
+
+**Languages**
+- C++
+- JavaScript
+
+**Frontend**
+- HTML
+- CSS
+- Tailwind CSS
+- React
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+  ## 🚀 Featured Projects
+
+### 🌾 Krishi Market
+A full-stack MERN platform connecting farmers directly with consumers.
+
+### 🍔 Food Ordering Website
+A responsive React application for browsing and ordering food online.
+
+### 💻 Open Source
+Actively contributing to GSSoC 2026 and improving open-source projects.
+
+## 📫 Connect With Me
+
+- 📧 Email: aditrichoudhary2@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aditri-choudhary-996263325
+- 💻 GitHub: https://github.com/aditric7
