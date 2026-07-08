@@ -20,29 +20,9 @@
 
 ## 💻 Tech Stack
 
-**Languages**
-- C++
-- JavaScript
-
-**Frontend**
-- HTML
-- CSS
-- Tailwind CSS
-- React
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Postman
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode,postman&perline=7" />
+</p>
   ## 🚀 Featured Projects
 
 ### 🌾 Krishi Market
