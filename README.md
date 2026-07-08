@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
 # Hi 👋, I'm Aditri
 
 ### 💻 Aspiring Full Stack Developer | 🚀 Open Source Enthusiast | 🧩 Competitive Programmer
