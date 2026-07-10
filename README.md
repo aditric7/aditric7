@@ -77,7 +77,7 @@ Actively contributing to GSSoC 2026.
 - 📧 Email: **aditrichoudhary2@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/aditri-choudhary-996263325
 - 💻 GitHub: https://github.com/aditric7
-
+- 💬 Discord: **aditri02537**
 ---
 
 ⭐ Thanks for visiting my profile!
