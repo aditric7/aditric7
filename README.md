@@ -21,7 +21,7 @@ Aspiring Full Stack Developer • MERN Stack • Competitive Programmer
 
 ## 🚀 Current Focus
 
-- 🌾 Building **Krishi Market** (MERN Stack)
+- 🌾 Building **Agrico-Hub** (MERN Stack)
 - 💻 Contributing to **GSSoC 2026**
 - 📚 Solving Data Structures & Algorithms
 - ⚡ Improving Full Stack Development Skills
