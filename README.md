@@ -66,10 +66,8 @@ Actively contributing to GSSoC 2026.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditric7&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditric7/aditric7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditric7&theme=github-compact" />
 </p>
 
 ## 📫 Connect With Me
