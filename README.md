@@ -17,16 +17,6 @@ Aspiring Full Stack Developer • MERN Stack • Competitive Programmer
 🚀 GSSoC 2026 Contributor | DSA Enthusiast
 </p>
 
----
-
-## 🚀 Current Focus
-
-- 🌾 Building **Agrico-Hub** (MERN Stack)
-- 💻 Contributing to **GSSoC 2026**
-- 📚 Solving Data Structures & Algorithms
-- ⚡ Improving Full Stack Development Skills
-
----
 
 ## 💻 Tech Stack
 
